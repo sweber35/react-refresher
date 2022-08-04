@@ -1,0 +1,17 @@
+.list-container {
+    display: flex;
+    flex-direction: row;
+    background-color: darkgray;
+}
+
+.detail-container {
+    background-color: gray;
+    /* padding: 4vw; */
+    flex: 1 1 0;
+    height: 96vh;
+}
+
+img {
+    max-width: 90%;
+    object-fit: contain;
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Bingbong",
+        "color": "#d10202",
+        "megazord": "aardvark",
+        "weapon": "plot armor",
+        "motivation": "insatiable need for validation",
+        "imageUrl": "https://bbts1.azureedge.net/images/p/full/2020/07/ca67c398-5449-41a5-a6be-dff1cbd7c369.jpg"
+    },
+    {
+        "name": "Ray Charles",
+        "color": "#05c6ed",
+        "megazord": "axolotl",
+        "weapon": "scathing criticism",
+        "motivation": "just happy to be here",
+        "imageUrl": "https://images.fun.com/products/24637/2-1-45920/power-rangers-blue-ranger-morphsuit2.jpg"
+    },
+    {
+        "name": "Sanguinius",
+        "color": "#00b506",
+        "megazord": "enzyme",
+        "weapon": "absolute indifference",
+        "motivation": "bored",
+        "imageUrl": "https://www.hasbro.com/common/productimages/en_US/1D5A3FA4AAE24AA7BB7A931EA67061D0/9e9a83cda73599a10563db51b1d9568ad94a7fc1.jpg"
+    },
+    {
+        "name": "Kroman",
+        "color": "#f2f207",
+        "megazord": "misquito",
+        "weapon": "rabies",
+        "motivation": "it pays the bills",
+        "imageUrl": "https://www.writeups.org/wp-content/uploads/Yellow-Ranger-Trini-Kwan-Power-Rangers-h4.jpg"
+    },
+    {
+        "name": "Vox",
+        "color": "pink",
+        "megazord": "capybara",
+        "weapon": "subversion of expectations",
+        "motivation": "literally none",
+        "imageUrl": "https://images.fun.com/products/24636/2-1-45796/power-rangers-pink-ranger-morphsuit.jpg"
+    }
+]
